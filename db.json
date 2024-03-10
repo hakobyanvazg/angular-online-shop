@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "iphone 15 Pro",
+      "price": 2000,
+      "description": "string",
+      "imageUrl": "https://3dplanet.am/wp-content/uploads/2023/09/30069469bb.jpg"
+    },
+    {
+      "id": "2",
+      "name": "iphone 14 Pro",
+      "price": 1500,
+      "description": "description",
+      "imageUrl": "https://3dplanet.am/wp-content/uploads/2022/09/14progold.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Samsung Galaxy S",
+      "price": 1000,
+      "description": "string",
+      "imageUrl": "https://yerevanmobile.am/media/catalog/product/cache/07720dad39bc68bc6b838050c0f2e34d/s/m/sm-s901_galaxys22_front_green_211123_result_1.jpg"
+    },
+    {
+      "id": 4,
+      "name": "ss",
+      "price": 0,
+      "description": "",
+      "imageUrl": ""
+    }
+  ]
+}
